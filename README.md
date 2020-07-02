@@ -10,8 +10,7 @@ $ apt update
 
 $ apt upgrade
 
-$ git clone https://github.com/kinghacker0/mob-droid
-
+$ git clone https://github.com/Hrijulop/Mob-Droid
 Usage:-
 
 $ cd Mob-Droid
